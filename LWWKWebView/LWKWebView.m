@@ -9,4 +9,8 @@
 
 @implementation LWKWebView
 
+- (void)test{
+    NSLog(@"test");
+}
+
 @end
