@@ -15,7 +15,6 @@
 		C9FD43AF29474D1B003A05E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9FD43AD29474D1B003A05E7 /* LaunchScreen.storyboard */; };
 		C9FD43B229474D1B003A05E7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C9FD43B129474D1B003A05E7 /* main.m */; };
 		C9FD43BA29474EB6003A05E7 /* LWKWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = C9FD43B929474EB6003A05E7 /* LWKWebView.m */; };
-		C9FD43E229485D35003A05E7 /* LWFirst.m in Sources */ = {isa = PBXBuildFile; fileRef = C9FD43E129485D35003A05E7 /* LWFirst.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,8 +32,6 @@
 		C9FD43B129474D1B003A05E7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C9FD43B829474EB6003A05E7 /* LWKWebView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = LWKWebView.h; path = ../../LWWKWebView/LWKWebView.h; sourceTree = "<group>"; };
 		C9FD43B929474EB6003A05E7 /* LWKWebView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = LWKWebView.m; path = ../../LWWKWebView/LWKWebView.m; sourceTree = "<group>"; };
-		C9FD43E029485D35003A05E7 /* LWFirst.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LWFirst.h; sourceTree = "<group>"; };
-		C9FD43E129485D35003A05E7 /* LWFirst.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LWFirst.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,8 +70,6 @@
 				C9FD43A329474D19003A05E7 /* SceneDelegate.m */,
 				C9FD43A529474D19003A05E7 /* ViewController.h */,
 				C9FD43A629474D1A003A05E7 /* ViewController.m */,
-				C9FD43E029485D35003A05E7 /* LWFirst.h */,
-				C9FD43E129485D35003A05E7 /* LWFirst.m */,
 				C9FD43B829474EB6003A05E7 /* LWKWebView.h */,
 				C9FD43B929474EB6003A05E7 /* LWKWebView.m */,
 				C9FD43A829474D1A003A05E7 /* Main.storyboard */,
@@ -159,7 +154,6 @@
 				C9FD43A729474D1A003A05E7 /* ViewController.m in Sources */,
 				C9FD43A129474D19003A05E7 /* AppDelegate.m in Sources */,
 				C9FD43BA29474EB6003A05E7 /* LWKWebView.m in Sources */,
-				C9FD43E229485D35003A05E7 /* LWFirst.m in Sources */,
 				C9FD43B229474D1B003A05E7 /* main.m in Sources */,
 				C9FD43A429474D19003A05E7 /* SceneDelegate.m in Sources */,
 			);
